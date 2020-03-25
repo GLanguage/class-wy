@@ -59,4 +59,4 @@ CLASS LITERALS for wenyan-lang.
 
 ## 末
 此即西人造類之術，何高之有？世人皆知也。  
-[範例](https://www.github.com/GLanguage/class-wy/範例)
+[範例](https://github.com/GLanguage/class-wy/tree/master/%E7%AF%84%E4%BE%8B)
